@@ -20,7 +20,7 @@ namespace chosesubject
         }
 
         string studentid;
-        string sqlconnectioncommand = "Data Source=182.92.76.25;Initial Catalog=timetable;Uid=SA;Pwd=ZHJzhj2121";
+        string sqlconnectioncommand = "Data Source=数据库地址;Initial Catalog=使用的数据库名称;Uid=用户名;Pwd=密码";
 
         int ischosenum = 0;
         int ischosecredit = 0;
