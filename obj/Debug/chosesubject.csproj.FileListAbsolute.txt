@@ -1,0 +1,10 @@
+E:\chosesubject\chosesubject\obj\Debug\chosesubject.csproj.AssemblyReference.cache
+E:\chosesubject\chosesubject\obj\Debug\chosesubject.Form1.resources
+E:\chosesubject\chosesubject\obj\Debug\chosesubject.Properties.Resources.resources
+E:\chosesubject\chosesubject\obj\Debug\chosesubject.csproj.GenerateResource.cache
+E:\chosesubject\chosesubject\obj\Debug\chosesubject.csproj.CoreCompileInputs.cache
+E:\chosesubject\chosesubject\bin\Debug\chosesubject.exe.config
+E:\chosesubject\chosesubject\bin\Debug\chosesubject.exe
+E:\chosesubject\chosesubject\bin\Debug\chosesubject.pdb
+E:\chosesubject\chosesubject\obj\Debug\chosesubject.exe
+E:\chosesubject\chosesubject\obj\Debug\chosesubject.pdb
